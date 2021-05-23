@@ -1,5 +1,9 @@
 # Lab8_Starter
 
+## Author
+Brandon Chaing
+
+
 ## Check your understanding q's (FILL OUT)
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? (just write the letter) \
    1
@@ -20,3 +24,6 @@ No, the "message" feature would likely incorporate many different components and
     await page.click('header img');\
     await page.waitForTimeout(500);\
   });
+
+
+![](testresults.png);
